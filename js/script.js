@@ -1,4 +1,2 @@
-const c = 100;
-const b = () => {}
-
-
+const c = 50;
+const b = () => {};
