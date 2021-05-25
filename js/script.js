@@ -1,3 +1,8 @@
-const c = 50;
+const c = 100;
 
-const b = 'Hi There'
+
+const b = () => {
+    console.log('Hi there')
+};
+
+const myFunc() => {} 
